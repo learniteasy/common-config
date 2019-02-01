@@ -1,3 +1,8 @@
 spring:
   application:
     name: signup
+   
+welcome:
+  message: Hello
+  date: 02/01/2019
+    
