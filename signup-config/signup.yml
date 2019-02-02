@@ -3,6 +3,6 @@ spring:
     name: signup
    
 welcome:
-  message: Hello--
+  message: Hello world
   date: 02/01/2019
     
