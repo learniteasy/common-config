@@ -8,4 +8,5 @@ welcome:
     
 voicemail:
   whitelist:
-    tn: +12151111111,+12152222222
+    tn:
+      dev: +12151111111,+12152222222
