@@ -3,6 +3,6 @@ spring:
     name: signup
    
 welcome:
-  message: Hello world - Spring Config Client
+  message: Hello world - Spring Config Client Test at March 15 2019 12:34 PM
   date: 02/01/2019
     
